@@ -31,13 +31,10 @@
 <h3>Project images in Postman</h3>
 
 
-
-
-
-
-
-
+![Postman](postman.png)
 
 
 
 <h3>Project images in Swagger   </h3>
+
+![Swagger](swagger.png)
